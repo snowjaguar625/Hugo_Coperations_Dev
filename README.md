@@ -14,20 +14,17 @@ A simple, clean, flexible Hugo theme.
 ---
 
 ## Links
-
 Product Hunt: [producthunt.com/posts/hugo-paper-6](https://www.producthunt.com/posts/hugo-paper-6)
 
 Hugo themes: [themes.gohugo.io/hugo-paper](https://themes.gohugo.io/hugo-paper/)
 
 ## Overview
-
 ![](./images/screenshot.png)
 ![](./images/screenshot_dark.png)
 ![](./images/screenshot_mobile.png)
 ![](./images/pagespeed.png)
 
 ## Install
-
 Inside the folder of your Hugo project, run:
 
 ```bash
@@ -43,7 +40,6 @@ theme = "paper"
 For more information, please read the [official guide](https://gohugo.io/getting-started/quick-start/#step-3-add-a-theme) of Hugo.
 
 ## Options
-
 Available options to `config.toml`:
 
 ```toml
